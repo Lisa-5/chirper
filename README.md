@@ -1,6 +1,6 @@
 This is the Laravel tutorial for microblogging call Chirper.
 
-There is a known bug when sending chirp notifications.
+Currently, there is a bug that needs fixing when sending chirp notifications.
 
 __________________________________________________________
 
