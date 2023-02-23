@@ -1,8 +1,7 @@
 This is the Laravel tutorial for microblogging app called Chirper.  
 
-Technology used Laravel, Blade and MySQL.
+Technology used Laravel, Blade, Breeze and MySQL.
 
-Currently, there is a bug that needs fixing when sending chirp notifications.
 
 __________________________________________________________
 
